@@ -28,7 +28,7 @@ End-to-end projects and production-style labs that demonstrate practical skills:
 
 ### Learning Repositories:
 These show how I build my foundations, experiment, and learn step-by-step:
-- **[Data Analysis Portfolio](https://github.com/thandontsizi/data-analysis-portfolio)**: Notes, exercises, and tests for core data analysis skills.
+- **[Data Analysis Learning](https://github.com/thandontsizi/data-analysis-learning)**: Notes, exercises, and tests for core data analysis skills.
 - **[Infrastructure Engineering Learning](https://github.com/thandontsizi/infrastructure-engineering-learning)**: Bash, Linux, networking, Docker, and cloud fundamentals.
 - **[Docker Playground](https://github.com/thandontsizi/docker-playground)**: Practice projects for hands-on container learning.
 
