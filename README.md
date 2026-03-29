@@ -1,5 +1,5 @@
 ## Hello, I'm Thando Ntsizi.👋
- am a Computer Science graduate interested in data, systems, and how things work under the hood. My work sits at the intersection of data analysis and infrastructure, where I focus on building practical end-to-end solutions using Python, SQL, and Linux-based tools.
+I am a Computer Science graduate interested in data, systems, and how things work under the hood. My work sits at the intersection of data analysis and infrastructure, where I focus on building practical end-to-end solutions using Python, SQL, and Linux-based tools.
 
 My approach is grounded in working through problems from the ground up, understanding the data, the system, and the logic behind it before moving to results.
 
